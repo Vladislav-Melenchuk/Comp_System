@@ -1,0 +1,16 @@
+D:\Course\SystemPC\Projects\HW_8\bin\Debug\net9.0-windows\HW_8.exe
+D:\Course\SystemPC\Projects\HW_8\bin\Debug\net9.0-windows\HW_8.deps.json
+D:\Course\SystemPC\Projects\HW_8\bin\Debug\net9.0-windows\HW_8.runtimeconfig.json
+D:\Course\SystemPC\Projects\HW_8\bin\Debug\net9.0-windows\HW_8.dll
+D:\Course\SystemPC\Projects\HW_8\bin\Debug\net9.0-windows\HW_8.pdb
+D:\Course\SystemPC\Projects\HW_8\obj\Debug\net9.0-windows\HW_8.Form1.resources
+D:\Course\SystemPC\Projects\HW_8\obj\Debug\net9.0-windows\HW_8.csproj.GenerateResource.cache
+D:\Course\SystemPC\Projects\HW_8\obj\Debug\net9.0-windows\HW_8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Course\SystemPC\Projects\HW_8\obj\Debug\net9.0-windows\HW_8.AssemblyInfoInputs.cache
+D:\Course\SystemPC\Projects\HW_8\obj\Debug\net9.0-windows\HW_8.AssemblyInfo.cs
+D:\Course\SystemPC\Projects\HW_8\obj\Debug\net9.0-windows\HW_8.csproj.CoreCompileInputs.cache
+D:\Course\SystemPC\Projects\HW_8\obj\Debug\net9.0-windows\HW_8.dll
+D:\Course\SystemPC\Projects\HW_8\obj\Debug\net9.0-windows\refint\HW_8.dll
+D:\Course\SystemPC\Projects\HW_8\obj\Debug\net9.0-windows\HW_8.pdb
+D:\Course\SystemPC\Projects\HW_8\obj\Debug\net9.0-windows\HW_8.genruntimeconfig.cache
+D:\Course\SystemPC\Projects\HW_8\obj\Debug\net9.0-windows\ref\HW_8.dll
